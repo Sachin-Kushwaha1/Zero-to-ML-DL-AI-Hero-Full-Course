@@ -1,4 +1,4 @@
-# Zero‑to‑ML‑DL‑AI: A Complete Beginner‑Friendly Course
+# Zero-to-ML-DL-AI-Hero: A Complete Beginner‑Friendly Course
 
 Welcome! This is a self‑contained, **chapter‑wise** course that teaches Machine Learning, Deep Learning, and practical AI **from scratch**, with detailed explanations and beginner‑friendly examples.  
 Everything you need is included here—no external material required.
