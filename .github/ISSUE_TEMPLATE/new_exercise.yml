@@ -1,0 +1,23 @@
+name: "New Exercise or Notebook"
+description: Suggest an exercise, quiz, or hands-on notebook
+labels: ["good first issue", "enhancement"]
+body:
+  - type: input
+    id: module
+    attributes:
+      label: Target Module
+      placeholder: "e.g., 10_Unsupervised_Learning.md"
+    validations:
+      required: true
+  - type: textarea
+    id: exercise
+    attributes:
+      label: Exercise Description
+      description: Outline the task, dataset (with license), and expected learning outcome.
+    validations:
+      required: true
+  - type: textarea
+    id: assets
+    attributes:
+      label: Assets
+      description: Links to datasets or images (avoid large files in repo).
